@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop-book>
+
+<shop>
+<shop-name>Книго Мир</shop-name>
+<shop-adress>Тверь, улица Шелковичная 2а</shop-adress>
+</shop>
+<shop>
+<shop-name>Читай город</shop-name>
+<shop-adress>Тверь, ул. Ленина 54а</shop-adress>
+</shop>
+<shop>
+<shop-name>Книжный рай</shop-name>
+<shop-adress>Тверь, ул. Карла Маркса 4а</shop-adress>
+</shop>
+<shop>
+<shop-name>Зачитайка</shop-name>
+<shop-adress>Тверь, ул. Революции 56</shop-adress>
+</shop>
+
+<book>
+<book-name>Гарри Поттер и филосовский камень</book-name>
+<book-author>Джоан Роулинг</book-author>
+<book-price>800</book-price>
+</book>
+<book>
+<book-name>Гарри Поттер и тайная комната</book-name>
+<book-author>Джоан Роулинг</book-author>
+<book-price>1000</book-price>
+</book>
+<book>
+<book-name>Гарри Поттер и узник Азкабана</book-name>
+<book-author>Джоан Роулинг</book-author>
+<book-price>1200</book-price>
+</book>
+<book>
+<book-name>Гарри Поттер и кубок огня</book-name>
+<book-author>Джоан Роулинг</book-author>
+<book-price>1400</book-price>
+</book>
+
+<order>
+<order-shop-id>1</order-shop-id>
+<order-article>2</order-article>
+<order-count>6</order-count>
+</order>
+<order>
+<order-shop-id>3</order-shop-id>
+<order-article>3</order-article>
+<order-count>2</order-count>
+</order>
+<order>
+<order-shop-id>2</order-shop-id>
+<order-article>4</order-article>
+<order-count>5</order-count>
+</order>
+<order>
+<order-shop-id>4</order-shop-id>
+<order-article>1</order-article>
+<order-count>10</order-count>
+</order>
+
+</shop-book>
